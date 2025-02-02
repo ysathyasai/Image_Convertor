@@ -71,7 +71,7 @@ This project is a Streamlit application designed for compressing, resizing, crop
 
 ## License
 
-This project is licensed under the Apache License 2.0. See the [LICENSE](http://www.apache.org/licenses/LICENSE-2.0) file for details.
+This project is licensed under the Apache License 2.0. See the [LICENSE](https://github.com/ysathyasai/Image_Convertor/blob/main/LICENSE) file for details.
 
 ## Contributions
 
